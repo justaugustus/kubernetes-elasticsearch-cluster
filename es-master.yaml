@@ -46,7 +46,7 @@ spec:
             fieldRef:
               fieldPath: metadata.name
         - name: "CLUSTER_NAME"
-          value: "myesdb"
+          value: "es-cdx"
         - name: "NUMBER_OF_MASTERS"
           value: "2"
         - name: NODE_MASTER
